@@ -10,6 +10,8 @@
   * hyperopt
   * optuna
 
+## Решение:
+[Предоставлено в файле - pract.ipynb](https://github.com/GridasovAlex/Hirperparam_selection/blob/main/pract.ipynb)
 ## Выводы:
 * GridSearchCV	
 
